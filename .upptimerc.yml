@@ -20,6 +20,8 @@ sites:
     url: https://office.jae.fi
   - name: Media
     url: https://media.jae.fi
+  - name: SSO
+    url: https://id.j4.lc
 
 status-website:
   # cname: status.purpletech.fi
