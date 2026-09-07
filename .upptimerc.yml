@@ -22,6 +22,8 @@ sites:
     url: https://media.jae.fi
   - name: SSO
     url: https://id.j4.lc
+  - name: Matrix
+    url: https://matrix.j4.lc
 
 status-website:
   # cname: status.purpletech.fi
