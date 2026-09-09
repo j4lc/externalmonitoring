@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jae.fi.ico",
     "slug": "git-lab-pages",
     "status": "up",
-    "uptime": "92.57%",
+    "uptime": "92.69%",
     "uptimeDay": "87.10%",
-    "uptimeWeek": "92.57%",
-    "uptimeMonth": "92.57%",
-    "uptimeYear": "92.57%",
+    "uptimeWeek": "92.69%",
+    "uptimeMonth": "92.69%",
+    "uptimeYear": "92.69%",
     "time": 885,
     "timeDay": 936,
     "timeWeek": 885,
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/g.j4.lc.ico",
     "slug": "git-lab-interface",
     "status": "up",
-    "uptime": "95.73%",
+    "uptime": "95.80%",
     "uptimeDay": "92.59%",
-    "uptimeWeek": "95.73%",
-    "uptimeMonth": "95.73%",
-    "uptimeYear": "95.73%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "95.80%",
     "time": 1786,
     "timeDay": 2189,
     "timeWeek": 1786,
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 1427,
+      "2026-09-09": 28,
+      "2026-09-08": 1440,
       "2026-09-07": 1072
     }
   },
@@ -113,7 +114,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 1427,
+      "2026-09-09": 28,
+      "2026-09-08": 1440,
       "2026-09-07": 1072
     }
   },
@@ -152,7 +154,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 1427,
+      "2026-09-09": 28,
+      "2026-09-08": 1440,
       "2026-09-07": 1072
     }
   },
@@ -191,7 +194,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 1427,
+      "2026-09-09": 28,
+      "2026-09-08": 1440,
       "2026-09-07": 1072
     }
   },
