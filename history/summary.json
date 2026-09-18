@@ -4,21 +4,21 @@
     "url": "https://jae.fi",
     "icon": "https://icons.duckduckgo.com/ip3/jae.fi.ico",
     "slug": "git-lab-pages",
-    "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "98.62%",
-    "time": 989,
-    "timeDay": 1420,
-    "timeWeek": 1068,
-    "timeMonth": 989,
-    "timeYear": 989,
+    "status": "up",
+    "uptime": "98.46%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
+    "time": 968,
+    "timeDay": 1283,
+    "timeWeek": 1029,
+    "timeMonth": 968,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2026-09-08": 186,
       "2026-09-17": 33,
-      "2026-09-18": 1
+      "2026-09-18": 27
     }
   },
   {
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-18": 517,
+      "2026-09-18": 544,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
@@ -125,7 +125,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-18": 517,
+      "2026-09-18": 544,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
@@ -174,7 +174,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-18": 517,
+      "2026-09-18": 544,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
@@ -223,7 +223,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-18": 517,
+      "2026-09-18": 544,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
