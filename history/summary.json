@@ -4,12 +4,12 @@
     "url": "https://jae.fi",
     "icon": "https://icons.duckduckgo.com/ip3/jae.fi.ico",
     "slug": "git-lab-pages",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.49%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.50%",
     "time": 1437,
     "timeDay": 942,
     "timeWeek": 819,
@@ -26,7 +26,8 @@
       "2026-09-23": 88,
       "2026-09-24": 77,
       "2026-09-26": 20,
-      "2026-09-27": 32
+      "2026-09-27": 32,
+      "2026-10-12": 6
     }
   },
   {
@@ -34,10 +35,10 @@
     "url": "https://g.j4.lc",
     "icon": "https://icons.duckduckgo.com/ip3/g.j4.lc.ico",
     "slug": "git-lab-interface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 795,
@@ -46,7 +47,8 @@
     "timeMonth": 688,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2026-09-08": 107
+      "2026-09-08": 107,
+      "2026-10-12": 1
     }
   },
   {
@@ -66,7 +68,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 34,
+      "2026-10-12": 1005,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -157,7 +159,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 34,
+      "2026-10-12": 1005,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -230,7 +232,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 34,
+      "2026-10-12": 1005,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -303,7 +305,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 34,
+      "2026-10-12": 1005,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
