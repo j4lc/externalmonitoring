@@ -4,16 +4,16 @@
     "url": "https://jae.fi",
     "icon": "https://icons.duckduckgo.com/ip3/jae.fi.ico",
     "slug": "git-lab-pages",
-    "status": "down",
-    "uptime": "98.49%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.49%",
+    "status": "up",
+    "uptime": "98.48%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.48%",
     "time": 1437,
-    "timeDay": 942,
-    "timeWeek": 819,
-    "timeMonth": 1515,
+    "timeDay": 1194,
+    "timeWeek": 897,
+    "timeMonth": 1514,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2026-09-08": 186,
@@ -27,7 +27,7 @@
       "2026-09-24": 77,
       "2026-09-26": 20,
       "2026-09-27": 32,
-      "2026-10-12": 15
+      "2026-10-12": 19
     }
   },
   {
@@ -36,19 +36,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/g.j4.lc.ico",
     "slug": "git-lab-interface",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.79%",
     "time": 1544,
     "timeDay": 14919,
     "timeWeek": 4223,
     "timeMonth": 1611,
     "timeYear": 1544,
     "dailyMinutesDown": {
-      "2026-09-08": 107,
-      "2026-10-12": 10
+      "2026-09-08": 107
     }
   },
   {
@@ -68,7 +67,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 1015,
+      "2026-10-12": 1019,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -159,7 +158,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 1015,
+      "2026-10-12": 1019,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -232,7 +231,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 1015,
+      "2026-10-12": 1019,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -305,7 +304,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 1015,
+      "2026-10-12": 1019,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
