@@ -1,7 +1,7 @@
 url: https://cloud.jae.fi
-status: up
-code: 200
-responseTime: 3169
-lastUpdated: 2026-11-22T02:54:11.473Z
+status: down
+code: 503
+responseTime: 1354
+lastUpdated: 2026-11-22T22:02:35.520Z
 startTime: 2026-09-07T06:07:53.284Z
 generator: Upptime <https://github.com/upptime/upptime>
